@@ -11,8 +11,8 @@ Este repositório serve como um guia completo para o uso de diagramas Mermaid na
 - [Instalação e Uso](#instalação-e-uso)
 - [Exemplos](#exemplos)
 - [Boas Práticas](#boas-práticas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
+
 
 ## 🚀 Introdução ao Mermaid
 
